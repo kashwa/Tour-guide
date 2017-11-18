@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="egypt">Egypt</string>
+    <string name="sights">Sights</string>
+    <string name="events">Events</string>
+    <string name="guide">Guide</string>
+    <string name="recommendations">Recommendations</string>
+    <!-- Data for EGYPT fragment -->
+    <string name="egyptData">Home of the ancient Pharaohs, Egypt is a dazzling destination of temples and tombs that wow all who visit. Its not all historic treasures though. With vast tracts of desert, superb scuba diving, and the famed Nile River there is something for everyone here. Beach lovers head to the Sinai to soak up the sun, while archaeology fans will have a field day in Luxor.</string>
+    <string name="cairo">Cairo, [capital]</string>
+    <string name="alex">Alexandria</string>
+    <string name="mnf">Menoufia</string>
+    <string name="loxor">Luxor</string>
+    <string name="aswan">Aswan</string>
+    <string name="nubian">Nubian</string>
+    <string name="sohage">Shoage</string>
+    <!-- Data for GUIDE fragment -->
+    <string name="mouled">It is today!, Mouled Sayedna Elhussein is today, it is favorable for all egyptians.</string>
+    <!-- Data for EVENTS fragment -->
+    <string name="shines">Egypt shines WTM</string>
+    <string name="kiteboard">El Gouna hosts Kiteboarding</string>
+    <string name="MissUniv">Miss Universe in cairo</string>
+    <string name="checkmate">Checkmat</string>
+    <string name="elfit">ELFIT International</string>
+    <string name="nileRace">120 Dragon Boats race on board Cairo Nile River</string>
+    <string name="alexFes">Alex Festival</string>
+    <!-- Data for RECOMMENDATIONs fragment -->
+    <string name="header">It is highly Recommended to visit J.Groppi</string>
+    <string name="groppi">GROPPI (1863-1947) a native of Lugano, Switzerland. In time Maison Groppi became chief purveyor of chocolate to monarchs and pashas throughout the MidEast. Inside, to the delight of the then-princesses Elizabeth and Margaret of England, were 100 kilos of Groppi chocolates.</string>
+    <!-- Data for Sights fragment-->
+    <string name="abuSimple">Abu simple temples</string>
+    <string name="sphinx">Great sphinx</string>
+    <string name="karnak">Karnak</string>
+    <string name="egyMuseum">Egyptian museum</string>
+    <string name="valley">Valley of the kings</string>
+    <string name="luxor">Luxor temples</string>
+    <string name="lakeNasser">Lake Nasser</string>
+    <string name="tahrir">Tahrir square</string>
+    <string name="tower">Cairo tower</string>
+    <string name="castel">Muhammed ali castle</string>
+    <string name="opera">Opera house</string>
+    <string name="qasrNile">Qasr elNile</string>
+    <string name="highDam">High dam</string>
+
+</resources>
+

@@ -1,0 +1,40 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.tourguide.Guide">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/TitleOfEvent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:text="Moulid of Sayyidna Al Hussein"
+            android:textSize="25sp" />
+
+        <TextView android:id="@+id/detailsOfEvent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/TitleOfEvent"
+            android:layout_alignLeft="@+id/TitleOfEvent"
+            android:layout_alignStart="@+id/TitleOfEvent"
+            android:layout_alignTop="@+id/TitleOfEvent"
+            android:layout_marginTop="50dp"
+            android:text="@string/mouled"
+            android:textSize="17sp" />
+
+        <ImageView
+            android:layout_below="@+id/detailsOfEvent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mouledhussein"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+
+</FrameLayout>
