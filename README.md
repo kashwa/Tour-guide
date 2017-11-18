@@ -1,5 +1,4 @@
-#Tour-guide
-
+Tour Guide
 This is the 6th app in my journey of learning Android Development. Tour guide app is kind of Guiding or helping app for a Tourist in Egypt. It previews Egypt's capital and rest of Towns in it, the most exciting sights in each town, the important and funniest events, and a Recommendation to a magnificent place in egypt to visit.
 ----------------------------------------------
 I have used in this app:
